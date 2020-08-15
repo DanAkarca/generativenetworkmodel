@@ -1,2 +1,1 @@
-# A generative network model of neurodevelopment.
-Akarca, D. et al. (2020). A generative network model of neurodevelopment.
+# A generative network model of neurodevelopment: code to be published.
