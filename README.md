@@ -29,19 +29,29 @@ This contains relevant, publicly-available, data that is relevant for the presen
 **/Scripts**
 
 The following MATLAB code was used in our analyses. Each script pertains to a separate part of the workflow. They are annotated within the script. The run time for each script can vary considerably. Most can be run within 3 minutes. Those that loop over multiple subjects can take much longer, depending on hyperparameters. In most cases, the estimated time is provided within the script. They include:
+
 i. Connectome thresholding.m
+
 ii. Computing the seed network.m
+
 iii. Running initial generative models.m
+
 iv. Running the homophily generative model.m
+
 v. Exploring generative model outputs.m
+
 vi. Embedding, errors and predictions.m
+
 vii. Gene expression PLS analysis.m
 
 **The following R and Python code was used to produce some of the visuals. They include:**
 
 a. Visualisation of the seed network.R
+
 b. Visualisation of nodal values and costs.R
+
 c. Visualisation of spatial embedding and errors.R
+
 d. Visualisation of wiring parameters in a radar plot.ipynb
 
 **/Scripts/connectome_pipeline**
