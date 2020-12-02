@@ -22,7 +22,7 @@ The datasets supporting the current study have not been deposited in a public re
 
 **/Example data**
 
-Relevant data can be found at https://osf.io/h9px4/?view_only=984260dcff444b59819961ece9c724ec**
+Relevant data can be found at https://osf.io/h9px4/?view_only=984260dcff444b59819961ece9c724ec
 
 This contains relevant, publicly-available, data that is relevant for the present study and can be used with code within the repository. They contain no identifiable data. They are not necessarily representative of the data used for the current study, but allow for the pipeline to be run.
 
