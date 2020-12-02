@@ -20,7 +20,7 @@ The following installations are required to use all the attached scripts. Howeve
 
 The datasets supporting the current study have not been deposited in a public repository because of restrictions imposed by NHS ethical approval, but may be available upon request. As such, all data in this repository and unidentifiable. They are either produced from simulations alone or are random data.
 
-**/Example data
+**/Example data**
 
 Relevant data can be found at https://osf.io/h9px4/?view_only=984260dcff444b59819961ece9c724ec**
 
