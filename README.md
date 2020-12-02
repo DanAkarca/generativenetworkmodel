@@ -20,9 +20,11 @@ The following installations are required to use all the attached scripts. Howeve
 
 The datasets supporting the current study have not been deposited in a public repository because of restrictions imposed by NHS ethical approval, but may be available upon request. As such, all data in this repository and unidentifiable. They are either produced from simulations alone or are random data.
 
-**/Example data: found at https://osf.io/h9px4/?view_only=984260dcff444b59819961ece9c724ec**
+**/Example data
 
-This folder contains relevant, publicly-available, data that is relevant for the present study and can be used with code within the repository. They contain no identifiable data. They are not necessarily representative of the data used for the current study, but allow for the pipeline to be run.
+Relevant data can be found at https://osf.io/h9px4/?view_only=984260dcff444b59819961ece9c724ec**
+
+This contains relevant, publicly-available, data that is relevant for the present study and can be used with code within the repository. They contain no identifiable data. They are not necessarily representative of the data used for the current study, but allow for the pipeline to be run.
 
 **/Scripts**
 
