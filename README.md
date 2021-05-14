@@ -1,4 +1,5 @@
 **Code repository for “A generative network model of neurodevelopmental diversity in structural brain organization”**
+doi:10.5281/zenodo.4762612
 
 Danyal Akarca [1], Petra E Vértes [2,3], Edward T Bullmore [2,4], the CALM team [1] & Duncan E Astle [1].
 1. MRC Cognition and Brain Sciences Unit, University of Cambridge, Cambridge, UK
