@@ -9,6 +9,10 @@ Danyal Akarca [1], Petra E Vértes [2,3], Edward T Bullmore [2,4], the CALM team
 
 For any questions regarding the use of this repository, please get in touch at Danyal.akarca@mrc-cbu.cam.ac.uk.
 
+If using the code, please consider citing our paper:
+
+**Akarca, D., Vértes, P.E., Bullmore, E.T. et al. A generative network model of neurodevelopmental diversity in structural brain organization. Nat Commun 12, 4216 (2021). https://doi.org/10.1038/s41467-021-24430-z**
+
 **Requirements**
 
 The following installations are required to use all the attached scripts. However, most will be usable with MATLAB alone. Installation time on a typical computer should take no longer than 60 minutes.
